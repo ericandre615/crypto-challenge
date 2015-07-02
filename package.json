@@ -1,0 +1,16 @@
+{
+  "name": "cypto-challenge",
+  "version": "0.1.0",
+  "description": "Crypto Challenge in javascript with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypto",
+    "node",
+    "javascript"
+  ],
+  "author": "Eric Andre",
+  "license": "MIT"
+}
